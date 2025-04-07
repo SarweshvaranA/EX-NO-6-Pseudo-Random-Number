@@ -1,6 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
-### Name:SURESH S
-### Regno:212223040215
+### Name:SARWESHVARAN A
+### Regno:212223230198
 
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
